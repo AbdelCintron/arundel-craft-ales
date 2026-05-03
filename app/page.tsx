@@ -19,7 +19,7 @@ export default async function Home() {
     <main className="min-h-screen bg-neutral-900 text-white p-10 font-sans">
       <header className="mb-16 text-center">
         <h1 className="text-5xl font-bold text-amber-500 mb-4">Arundel Craft Ales</h1>
-        <p className="text-xl text-neutral-400">Fresh, local, and poured with purpose.</p>
+        <p className="text-xl text-neutral-400">Best Craft Ales in Town!</p>
       </header>
 
       <section className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
